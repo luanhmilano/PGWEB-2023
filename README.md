@@ -1,4 +1,4 @@
-# Banco de Dados
+# Programação WEB
 
 Repositório dedicado à disciplina de **Programação WEB** do curso de Análise e Desenvolvimento de Sistemas do IFPA - Campus Belém, realizada no 3° Semestre (2023.2). Aqui serão armazenados códigos-exemplo, exercícios e projetos desenvolvidos durante a disciplina.
 
